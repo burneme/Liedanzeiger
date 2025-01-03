@@ -8,6 +8,8 @@ The minium you need is:
   
   **raspberry pi zero W** or **raspberry pi zero W** including **µSD-card 8GB minimum**,
   
-  **tablet / mobile phone / PC / notebook**
+  **tablet / mobile phone / PC / notebook**,
+  
+  **HDMI cable** and a **USB-power supply**.
   
 The code for the µSD card you can get here. Finally it looks like this:
