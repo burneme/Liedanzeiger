@@ -1,3 +1,4 @@
+#How it looks like#
 Many of the old fashioned displays in churches face problems when searching for spare parts i.e. bulbs and switches. So, I found a very nifty way to do a replacement using "https://github.com/mrazekv/church-numbers",
 where a system with HDMI-Monitor and  raspberry-Pi zero W is shown as a solution.
 The invest is very small, currently used 24"-Monitors are cheap, a "raspberry pi zero 2W" is less than 20€ and the input can be done with any browser on tablet/mobile-phone/notebook.
@@ -12,7 +13,7 @@ The minium you need is:
   
   **HDMI cable** and a **USB-power supply**.
   
-The code for the µSD card you can get here.
+The code for the µSD cards ready to start you can get from this site. If there is the requirement for a second display (side aisles) a here called Sat(telite) must be downloaded and enabled in the code. 
 
 Finally it looks like this:
 ![Front](https://github.com/burneme/Liedanzeiger/blob/main/Front.JPG)
