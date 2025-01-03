@@ -14,5 +14,5 @@ The minium you need is:
   
 The code for the µSD card you can get here. 
 Finally it looks like this:
-![Front](https://github.com/burneme/liedanzeiger/Front.jpg)
-![ipad3](https://github.com/burneme/liedanzeiger/Ipad3.jpg)
+![Front](https://github.com/burneme/Liedanzeiger/blob/main/Ipad3.JPG)
+![ipad3](https://github.com/burneme/liedanzeiger/blob/main/Ipad3.jpg)
