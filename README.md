@@ -12,4 +12,7 @@ The minium you need is:
   
   **HDMI cable** and a **USB-power supply**.
   
-The code for the µSD card you can get here. Finally it looks like this:
+The code for the µSD card you can get here. 
+Finally it looks like this:
+![Front](https://github.com/burneme/liedanzeiger/downloads/Front.jpg)
+![ipad3](https://github.com/burneme/liedanzeiger/downloads/ipad.jpg)
