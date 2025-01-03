@@ -14,7 +14,7 @@ The minium you need is:
   
   **HDMI cable** and a **USB-power supply**.
   
-The code for the µSD cards ready to start you can get from this site. If there is the requirement for a second display (side aisles) a here called Sat(telite) must be downloaded and enabled in the code. 
+The code for the µSD cards ready to start you can get from this site. If there is the requirement for a second display (side aisles) a here called Sat(telite) version can be downloaded and enabled in the code. 
 
 Finally it looks like this:
 ![Front](https://github.com/burneme/Liedanzeiger/blob/main/Front.JPG)
