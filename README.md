@@ -27,3 +27,5 @@ Finally it looks like this:
 Download the image file and use "Balena_etcher" and flash your µSD-card. Insert the card into the raspberry pi zero, connect HDMI-output to monitor and power on.
 
 ![balena](https://github.com/burneme/liedanzeiger/blob/main/balena.png)
+
+It is necessary for a proper start to have a connected, ready monitor. After boot time of approx. half a minute (rasp pi zero 2W), you should recognize a Wifi-station "StMartin", the password is set to "Epiphany", you can change it later.
