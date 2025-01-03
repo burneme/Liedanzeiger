@@ -19,3 +19,9 @@ The code for the µSD cards ready to start you can get from this site. If there 
 Finally it looks like this:
 ![Front](https://github.com/burneme/Liedanzeiger/blob/main/Front.JPG)
 ![ipad3](https://github.com/burneme/liedanzeiger/blob/main/Ipad3.JPG)
+
+
+
+# What you need to do #
+
+Download the image file and use "Balena_etcher" and flash your µSD-card. Insert the card into the raspberry pi zero, connect HDMI-output to monitor and power on.
