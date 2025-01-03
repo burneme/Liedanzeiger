@@ -25,3 +25,5 @@ Finally it looks like this:
 # What you need to do #
 
 Download the image file and use "Balena_etcher" and flash your µSD-card. Insert the card into the raspberry pi zero, connect HDMI-output to monitor and power on.
+
+![balena](https://github.com/burneme/liedanzeiger/blob/main/balena.png)
