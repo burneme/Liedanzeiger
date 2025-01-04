@@ -20,12 +20,4 @@ If there is the requirement for one or more additional displays (side aisles) a 
 Finally it looks like this:
 ![Front](https://github.com/burneme/Liedanzeiger/blob/main/Front.JPG)
 ![ipad3](https://github.com/burneme/liedanzeiger/blob/main/Ipad3.JPG)
-
-
-# What you need to do #
-
-Download the image file and use "BalenaEtcher" and flash your µSD-card. Insert the card into the raspberry pi zero, connect HDMI-output to monitor and power on.
-
-![balena](https://github.com/burneme/liedanzeiger/blob/main/Balena.png)
-
-It is necessary for a proper start to have a connected, ready monitor. After boot time of approx. half a minute (rasp pi zero 2W), you should recognize a Wifi-station "StMartin", the password is set to "Epiphany", you can change it later.
+![ipad3](https://github.com/burneme/liedanzeiger/blob/main/Back.JPG)
