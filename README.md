@@ -14,7 +14,7 @@ The minium you need is:
   
   **HDMI cable** and a **USB-power supply**.
   
-The code for the µSD cards ready to start you can't get from this site. It was my first intention to provide the final image, however they are too large to upload. Instead you might use the link from mrazekv including all the steps to get a rocksolid installation (read-only file system) or I can provived a physical µSD for the net cost price, currently below 5€. Github doesn't allow large files, even my available cloud cannot handle files beyond 1GB.
+The code for the µSD card "ready to start" you can't get from this site. It was my first intention to provide the final image, however they are too large to upload. Instead you might use the link from mrazekv including all the steps to get a rocksolid installation (read-only file system) or I can provived a physical µSD for the net cost price, currently below 5€. Github doesn't allow large files, even my available cloud cannot handle files beyond 1GB.
 If there is the requirement for one or more additional displays (side aisles), a Sat(telite) version is possible. In cases, when the second monitor is not far away, a HDMI-splitter can be used to connect two monitors to one single raspberry. In my home town this unit with satellite is now running for a year with good experience.
 
 Finally it looks like this:
