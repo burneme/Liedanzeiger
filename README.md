@@ -14,7 +14,8 @@ The minium you need is:
   
   **HDMI cable** and a **USB-power supply**.
   
-The code for the µSD cards ready to start you can get from this site. If there is the requirement for a second display (side aisles) a here called Sat(telite) version can be downloaded and enabled in the code. 
+The code for the µSD cards ready to start you can't get from this site. It was my intentioni to provide the final image, however they are too large to upload. Therefore you might to use the link from mrazekv including all the steps to get a rocksolid installation or I can provived physical µSD for the net cost price, currently below 5€. Github doesn't allow large files, even an available cloud cannot handle files beyond 1GB.
+If there is the requirement for one or more additional displays (side aisles) a Sat(telite) version is possible. In cases, when the second monitor is not far away, a HDMI-splitter can be used to connect two monitors to one raspberry. In my home town this unit is now running for a year with good experience.
 
 Finally it looks like this:
 ![Front](https://github.com/burneme/Liedanzeiger/blob/main/Front.JPG)
