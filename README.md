@@ -20,6 +20,7 @@ If there is the requirement for one or more additional displays (side aisles), a
 Finally it looks like this:
 ![Front](https://github.com/burneme/Liedanzeiger/blob/main/Front.JPG)
 ![ipad3](https://github.com/burneme/liedanzeiger/blob/main/Ipad3.JPG)
+ipad3 with a printed frame to hook it on the organists console
 ![ipad3](https://github.com/burneme/liedanzeiger/blob/main/Back.JPG)
-
-The specific python/html-code, which is more or less a translation from czech language will follow soon. 
+Neat arrangement of connection cables.
+The specific python/html-code, which is more or less a translation from czech language will follow soon. This should be installed in the home directory of user admin.
