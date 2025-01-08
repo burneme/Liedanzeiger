@@ -18,7 +18,8 @@ The code for the µSD card "ready to start" you can't get from this site. It was
 If there is the requirement for one or more additional displays (side aisles), a Sat(telite) version is possible. In cases, when the second monitor is not far away, a HDMI-splitter can be used to connect two monitors to one single raspberry. In my home town this unit with satellite is now running for a year with good experience.
 
 Finally it looks like this:
-![Front](https://github.com/burneme/Liedanzeiger/blob/main/Front.JPG)
+
+![Front](https://github.com/burneme/Liedanzeiger/blob/main/Front.JPG =806x604)
 ![ipad3](https://github.com/burneme/liedanzeiger/blob/main/Ipad3.JPG)
 ipad3 with a printed frame to hook it on the organists console
 ![ipad3](https://github.com/burneme/liedanzeiger/blob/main/Back.JPG)
