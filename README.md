@@ -53,6 +53,20 @@ Since you are in a read-only mode, you need to switch to read-write-mode: Type "
 then call the editor (i use joe, behaves like old wordstar) type "**sudo joe hostapd.conf**". Then change the pw accordingly to your personal requests.
 To store it, type "**<cntr>-K  and x**", "**ro** to set read-only", then reboot (replug) and use new wifi pw.
 
+admin@raspberrypi(ro):/etc/hostapd$ cd ~
+admin@raspberrypi(ro):~$ 
+admin@raspberrypi(ro):~$ 
+admin@raspberrypi(ro):~$ 
+admin@raspberrypi(ro):~$ cd /etc/hostapd
+admin@raspberrypi(ro):/etc/hostapd$ rw
+admin@raspberrypi(rw):/etc/hostapd$ joe hostapd.conf
+
+. 
+.
+.
+
+ro
+
 
 The small changes for a second system acting as a slave will follow on request.
 Have fun and distribute it.
