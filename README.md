@@ -44,9 +44,17 @@ This pw is stored in /etc/hostapd/hostapd. To change it, you need to connect to 
 
 For linux, together with an to connected PC, use
 
+#### Code
+
+Inline `code`
+
+Indented code
+
+Block code "fences"
 
 **"ssh admin@192.168.4.1"**
 
+####
 you anser with "admin". You get the message connected to...
 
 Since you are in a read-only mode, you need to switch to read-write-mode: Type "**rw**". Then change to the directoty: "**cd /etc/hostapd/hostapd.conf**".
@@ -61,9 +69,7 @@ admin@raspberrypi(ro):~$ cd /etc/hostapd
 admin@raspberrypi(ro):/etc/hostapd$ rw
 admin@raspberrypi(rw):/etc/hostapd$ joe hostapd.conf
 
-. 
-.
-.
+
 
 ro
 
