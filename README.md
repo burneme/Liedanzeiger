@@ -52,7 +52,7 @@ Indented code
 
 Block code "fences"
 
-**"ssh admin@192.168.4.1"**
+ssh admin@192.168.4.1
 
 ####
 you anser with "admin". You get the message connected to...
