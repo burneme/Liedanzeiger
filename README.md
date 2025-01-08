@@ -66,16 +66,10 @@ To store it, type
 ### cntrl-K ### 
 and 
 ### x ### 
-,
+
 ### ro ### 
-to set read-only, then reboot (replug) and use new wifi pw.
 
-
-
-
-
-ro
-
+then to set read-only, reboot (replug) and use new wifi pw.
 
 The small changes for a second system acting as a slave will follow on request.
 Have fun and distribute it.
