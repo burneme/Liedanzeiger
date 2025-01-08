@@ -29,7 +29,4 @@ The specific python/html-code, which is more or less a translation from czech la
 
 Finally I found a download space for the image at google:
 
-![SingleDisplay](![Stormtroopocat](https://drive.google.com/file/d/1Por2zFch3SOl4XRDp1puK9v_BIOZQSrb/view?usp=drive_link "An ubunto image for a single display")
-
-
-
+[SingleDisplay](https://drive.google.com/file/d/1Por2zFch3SOl4XRDp1puK9v_BIOZQSrb/view?usp=drive_link/ "An raspberry pi zero image for one display") 
