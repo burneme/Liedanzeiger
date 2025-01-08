@@ -62,7 +62,13 @@ Then call the editor (i use joe, behaves like old wordstar) type
 
 Then change the pw accordingly to your personal requests.
 
-To store it, type ### cntrl-K ### and ### x ### , ### ro ### to set read-only", then reboot (replug) and use new wifi pw.
+To store it, type 
+### cntrl-K ### 
+and 
+### x ### 
+,
+### ro ### 
+to set read-only, then reboot (replug) and use new wifi pw.
 
 
 
