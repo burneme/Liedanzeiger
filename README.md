@@ -27,4 +27,9 @@ Neat arrangement of connection cables.
 
 The specific python/html-code, which is more or less a translation from czech language is attached as sw.zip, expand it and store it below /home/admin.   You should see it as "home/admin/cisla/..".
 
+Finally I found a download space for the image at google:
+
+![SingleDisplay](![Stormtroopocat](https://drive.google.com/file/d/1Por2zFch3SOl4XRDp1puK9v_BIOZQSrb/view?usp=drive_link "An ubunto image for a single display")
+
+
 
