@@ -67,9 +67,11 @@ To store it, type
 and 
 ### x ### 
 
+then to set read-only,
+
 ### ro ### 
 
-then to set read-only, reboot (replug) and use new wifi pw.
+reboot (replug) and use new wifi pw.
 
 The small changes for a second system acting as a slave will follow on request.
 Have fun and distribute it.
