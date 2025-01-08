@@ -40,9 +40,9 @@ When the download is complete, you need to flash a sd-card using "belena etcher"
 
 The password for the wifi-net is "Epiphany", you should change that as soon as you can, change this asap, otherwise you will end in a musical request concert :).
 
-This pw is stored in /etc/hostapd/hostapdo. To change it, you need to connect to the system.
+This pw is stored in /etc/hostapd/hostapd. To change it, you need to connect to the system.
 
-for linux, together with an to connected PC, use
+For linux, together with an to connected PC, use
 
 
 **"ssh admin@192.168.4.1"**
@@ -50,8 +50,8 @@ for linux, together with an to connected PC, use
 you anser with "admin". You get the message connected to...
 
 Since you are in a read-only mode, you need to switch to read-write-mode: Type "**rw**". Then change to the directoty: "**cd /etc/hostapd/hostapd.conf**".
-the call the editor (i use joe, behaves like old wordstar) type "**sudo joe hostapd.conf**". Then change the pw accordingly to your personal requests.
-To store it, type "**<cntr>-K  and x**", "**ro** to set read-only", then reboot and use new pw.
+then call the editor (i use joe, behaves like old wordstar) type "**sudo joe hostapd.conf**". Then change the pw accordingly to your personal requests.
+To store it, type "**<cntr>-K  and x**", "**ro** to set read-only", then reboot (replug) and use new wifi pw.
 
 
 The small changes for a second system acting as a slave will follow on request.
