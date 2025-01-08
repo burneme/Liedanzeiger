@@ -31,3 +31,12 @@ Finally I found a download space for the image at google:
 
 [Image for Single Display](https://drive.google.com/file/d/1Por2zFch3SOl4XRDp1puK9v_BIOZQSrb/view?usp=drive_link/ "An raspberry pi zero image for one display") 
 
+When the download is complete, you need to flash a sd-card using "belena etcher", download this if you don't have and work as it is stated.
+
+![BalenaFlasher](https://github.com/burneme/Liedanzeiger/blob/main/balena.png)
+
+The password for the wifi-net is "Epiphany", you should change that as soon as you can, change this asap, otherwise you will end in a musical request concert :).
+
+This pw is stored in /etc/...
+Have fun and distribute it.
+
