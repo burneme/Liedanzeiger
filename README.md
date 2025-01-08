@@ -44,19 +44,24 @@ This pw is stored in /etc/hostapd/hostapd. To change it, you need to connect to 
 
 For linux, together with an to connected PC, use
 
-### ssh admin@192.168.4.1 ###
+### ssh admin@192.168.4.1 ### 
+(for windows install "putty")
 
 you anser with "admin". You get the message connected to...
 
 
 ### admin@raspberrypi(ro):~$ cd /etc/hostapd ###
 
+Since you are in a read-only mode, you need to switch to read-write-mode:
+
 ### admin@raspberrypi(ro):/etc/hostapd$ rw ###
+
+Then call the editor (i use joe, behaves like old wordstar) type 
 
 ### admin@raspberrypi(rw):/etc/hostapd$ sudo joe hostapd.conf ### 
 
-Since you are in a read-only mode, you need to switch to read-write-mode: Type "**rw**". Then change to the directoty: "**cd /etc/hostapd/hostapd.conf**".
-then call the editor (i use joe, behaves like old wordstar) type "**sudo joe hostapd.conf**". Then change the pw accordingly to your personal requests.
+Then change the pw accordingly to your personal requests.
+
 To store it, type "**<cntr>-K  and x**", "**ro** to set read-only", then reboot (replug) and use new wifi pw.
 
 
