@@ -1,4 +1,4 @@
-|                                                                                 | picture | source:<sourcing keyword> | comment | 
+|                                                                                 | picture | source: < sourcing keyword > | comment | 
 |:------------------------------------------------------------------------------- |:-------:|:------:|:-------:|
 | <span class="text-nowrap"><i class="fa fa-leaf fa-fw"></i> **socket**</span>   |![sockets](https://github.com/burneme/Liedanzeiger/blob/main/OptionalHardware/ipex.png)|aliexpress: <ipex 2mm>|This IPEX sockt (2mm) is requiredif you don't want to use the internal raspberry antenna.You should have good eyes or microsope. Make a test wether the standard is sufficient before you start to solder|
 | <span class="text-nowrap"><i class="fa fa-leaf fa-fw"></i> **antenna**</span> |![sockets](https://github.com/burneme/Liedanzeiger/blob/main/OptionalHardware/External_ant.png)|aliexpress: <2.4GHz Antenna, SMA>|Prefere a wired antenna with magnetic base, you will be in a better position when you do operating range tests! Possibly you'll find an old router antenna from the barfain bin.|
