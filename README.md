@@ -73,6 +73,6 @@ then to set read-only,
 
 reboot (replug) and use new wifi pw.
 
-The small changes for a second system acting as a slave will follow on request.
+The small changes for a second system, acting as a slave, will follow on request.
 Have fun and distribute it.
 
