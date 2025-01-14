@@ -38,7 +38,7 @@ Finally I found a download space for the image at google:
 
 When the download is complete, you need to flash a sd-card using "belena etcher", download this if you don't have it installed and work as it is stated.
 
-![BalenaFlasher](https://github.com/burneme/Liedanzeiger/blob/main/Balena.png)
+![BalenaFlasher](https://github.com/burneme/Liedanzeiger/blob/main/balena.png)
 The password for the wifi-net is "Epiphany", you should change that as soon as you can, change this asap, otherwise you will end in a musical request concert :).
 
 This pw is stored in /etc/hostapd/hostapd. To change it, you need to connect to the system.
