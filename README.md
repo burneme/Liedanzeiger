@@ -32,51 +32,56 @@ Neat arrangement of connection cables.
 
 The specific python/html-code, which is more or less a translation from czech language is attached as sw.zip, expand it and store it below /home/admin.   You should see it as "home/admin/cisla/..".
 
+## Creating a working SD-card ##
+
 Finally I found a download space for the image at google:
 
 [Image for Single Display](https://drive.google.com/file/d/1Por2zFch3SOl4XRDp1puK9v_BIOZQSrb/view?usp=drive_link/ "An raspberry pi zero image for one display") 
 
-When the download is complete, you need to flash a sd-card using "belena etcher", download this if you don't have it installed and work as it is stated.
+When the download is complete, you need to flash a sd-card using "belena etcher", download this if you don't have it installed already and start it.
 
 ![BalenaFlasher](https://github.com/burneme/Liedanzeiger/blob/main/balena.png)
-The password for the wifi-net is "Epiphany", you should change that as soon as you can, change this asap, otherwise you will end in a musical request concert :).
 
-This pw is stored in /etc/hostapd/hostapd. To change it, you need to connect to the system.
+When you have  the finished card, insert this into the slot of raspberry pi zero and apply power, the already operating monitor should show for a second a colored pattern followed by a spinner. When the spinner disapears, you should be able to connect to a Wifi-net called "StMartin", you will be asked for the password "Epiphany". The system gives your device an IP-adress in the net 192.168.4.0.
+The next step is to call the index.html, insert into your favourite browser "192.168.4.1" as the adress and press enter, the entry mask should appear.
+You can enter a three-digit main number and a substring followed by "Scribe!" (Write!), "Detege!" clears the display.
 
-For linux, beeing in the same network, use
-
-### ssh admin@192.168.4.1 ### 
-(for windows install "putty" before)
-
-you anser with "admin". You get the message "connected to..."
-
-
-### admin@raspberrypi(ro):~$ cd /etc/hostapd ###
-
-Since you are in a read-only mode, you need to switch to read-write-mode:
-
-### admin@raspberrypi(ro):/etc/hostapd$ rw ###
-
-Then call the editor (i use joe, behaves like old wordstar), type 
-
-### admin@raspberrypi(rw):/etc/hostapd$ sudo joe hostapd.conf ### 
-
-Then change the pw accordingly to your personal requests.
-
-To store it, type 
-### cntrl-K ### 
-and 
-### x ### 
-
-then to set read-only,
-
-### ro ### 
-
-reboot (replug) and use new wifi pw.
+>  ## Password change ##
+>
+>  The password for the wifi-net inside the given image is "Epiphany", you should change that as soon as you can, change this asap, otherwise you will end in a musical request concert :).
+>
+>  This pw is stored in /etc/hostapd/hostapd. To change it, you need to connect to the system.
+>
+>  For linux, beeing in the same network, use
+>
+>  ### ssh admin@192.168.4.1 ###
+> (for windows install "putty" before)
+>
+>  you answer with "admin" and get the message "connected to..."
+>
+>  ### admin@raspberrypi(ro):~$ cd /etc/hostapd ###
+>
+>  Since you are in a read-only mode, you need to switch to read-write-mode:
+>
+>  ### admin@raspberrypi(ro):/etc/hostapd$ rw ###
+>
+>  Then call the editor (i use joe, behaves like old wordstar), type 
+>
+>  ### admin@raspberrypi(rw):/etc/hostapd$ sudo joe hostapd.conf ### 
+>
+>  Change the pw accordingly to your personal requests.
+>
+>  To store it, type 
+>  ### cntrl-K ### 
+>  and 
+>  ### x ### 
+>
+>  then to set read-only,
+>
+>  ### ro ### 
+>
+>  reboot (replug) and use new wifi pw.
 
 The small changes for a second system, acting as a slave, will follow on request.
-
-
-
 Have fun and distribute it.
 
