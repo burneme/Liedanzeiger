@@ -13,6 +13,8 @@ The minium you need is:
   **tablet / mobile phone / PC / notebook**,
   
   **HDMI cable** and a **USB-power supply**.
+
+This material can be conveniently sourced in Europe from berrybase.de or similar suppliers. Even optional material, shown in a separate directory, is available there.
   
 The code for the µSD card "ready to start" you can get in the meanwhile from this site. It was my first intention to provide the final image to avoid the nasty work for people who are not trained to linux. You might use the link from mrazekv including all the steps to get a rocksolid installation (read-only file system). Github doesn't allow large files, even my available cloud cannot handle files beyond 1GB, so google helped me. See the link below the pictures.
 If there is the requirement for one or more additional displays (side aisles), a Sat(telite) version is possible. In cases, when the second monitor is not far away, a HDMI-splitter can be used to connect two monitors to one single raspberry. In my home town this unit with satellite is now running for a year with good experience.
@@ -37,7 +39,6 @@ Finally I found a download space for the image at google:
 When the download is complete, you need to flash a sd-card using "belena etcher", download this if you don't have it installed and work as it is stated.
 
 ![BalenaFlasher](https://github.com/burneme/Liedanzeiger/blob/main/Balena.png)
-
 The password for the wifi-net is "Epiphany", you should change that as soon as you can, change this asap, otherwise you will end in a musical request concert :).
 
 This pw is stored in /etc/hostapd/hostapd. To change it, you need to connect to the system.
@@ -74,5 +75,8 @@ then to set read-only,
 reboot (replug) and use new wifi pw.
 
 The small changes for a second system, acting as a slave, will follow on request.
+
+
+
 Have fun and distribute it.
 
