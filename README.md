@@ -85,8 +85,13 @@ You can enter a three-digit main number and a substring followed by "Scribe!" (W
 The small changes for a second system, acting as a slave, will follow on request.
 Have fun and distribute it.
 
-P.S.:
-**Issues during operation**
-After nearly one year we faced a problem with difficult reception, the system could not recognize commands and did not react. The cause was a noisy USB power suppyly. Changing this to and old one from the surplus, it worked fine again. Since the noisy one was brandnew (1year) from China, it might be a reason why your setup is not working as excepted. It might be that the raspberry is not very resistant to noisy supply. If you can, use a supply recommended for raspberry Pi. Attached see the output voltage of the faulty supply (AC-Coupling, 20mV/div):
+**P.S.:**
 
-![Faulty supply voltage](https://github.com/burneme/Liedanzeiger/blob/main/NOISY.PNG)
+**Issues during operation**
+
+After nearly one year we faced a problem with difficult reception, the system could not recognize commands and did not react. The cause was a noisy USB power supply. Changing this to and old one from the surplus, it worked fine again. Since the noisy one was brandnew (1year old) from China, it might be a reason why your setup is not working as expected. It seems that the raspberry is not very resistant to noisy supplies.
+If you can, use a supply recommended for raspberry Pi which is sold usually as a set. **Furthermore the disassembled faulty supply did not show any clear seperation/isolation space from mains to output. Unclear how this unit can pass any VDE or UL test or inspection.**
+
+Attached see the output voltage of the faulty supply (AC-Coupling, 20mV/div):
+
+![Faulty supply voltage](https://github.com/burneme/Liedanzeiger/blob/main/noisy.png)
